@@ -1,0 +1,15 @@
+/*.ncb
+/*.obj
+/*.user
+/*.pdb
+*.obj
+*.user
+*.pdb
+*.pch
+*.manifest
+*.dep
+*.idb
+*.res
+*.ilk
+*.suo
+temp/Debug/Mousee/BuildLog.htm
